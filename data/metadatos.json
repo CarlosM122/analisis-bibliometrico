@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "archivo": "articulo_01.pdf",
+    "titulo": "Artificial intelligence literacy in higher and adult education: A scoping literature review",
+    "autores": [
+      "Matthias Carl Laupichler",
+      "Alexandra Aster",
+      "Jana Schirch",
+      "Tobias Raupach"
+    ]
+  },
+  {
+    "id": 2,
+    "archivo": "articulo_02.pdf",
+    "titulo": "Systematic literature review on opportunities, challenges, and future research recommendations of artificial intelligence in education",
+    "autores": [
+      "Thomas K.F. Chiu",
+      "Qi Xia",
+      "Xinyan Zhou",
+      "Ching Sing Chai",
+      "Miaoting Cheng"
+    ]
+  },
+  {
+    "id": 3,
+    "archivo": "articulo_03.pdf",
+    "titulo": "Myths, mis- and preconceptions of artificial intelligence: A review of the literature",
+    "autores": [
+      "Arne Bewersdorff",
+      "Xiaoming Zhai",
+      "Jessica Roberts",
+      "Claudia Nerdel"
+    ]
+  },
+  {
+    "id": 4,
+    "archivo": "articulo_04.pdf",
+    "titulo": "Opportunities of artificial intelligence for supporting complex problem-solving: Findings from a scoping review",
+    "autores": [
+      "Srecko Joksimovic",
+      "Dirk Ifenthaler",
+      "Rebecca Marrone",
+      "Maarten De Laat",
+      "George Siemens"
+    ]
+  },
+  {
+    "id": 5,
+    "archivo": "articulo_05.pdf",
+    "titulo": "Application and theory gaps during the rise of Artificial Intelligence in Education",
+    "autores": [
+      "Xieling Chen",
+      "Haoran Xie",
+      "Di Zou",
+      "Gwo-Jen Hwang"
+    ]
+  },
+  {
+    "id": 6,
+    "archivo": "articulo_06.pdf",
+    "titulo": "A multi-perspective study on Artificial Intelligence in Education: grants, conferences, journals, software tools, institutions, and researchers",
+    "autores": [
+      "Xieling Chen",
+      "Haoran Xie",
+      "Gwo-Jen Hwang"
+    ]
+  },
+  {
+    "id": 7,
+    "archivo": "articulo_07.pdf",
+    "titulo": "Human-centred learning analytics and AI in education: A systematic literature review",
+    "autores": [
+      "Riordan Alfredo",
+      "Vanessa Echeverria",
+      "Yueqiao Jin",
+      "Lixiang Yan",
+      "Zachari Swiecki",
+      "Dragan Gašević",
+      "Roberto Martinez-Maldonado"
+    ]
+  },
+  {
+    "id": 8,
+    "archivo": "articulo_08.pdf",
+    "titulo": "A systematic review of artificial intelligence techniques for collaborative learning over the past two decades",
+    "autores": [
+      "Seng Chee Tan",
+      "Alwyn Vwen Yen Lee",
+      "Min Lee"
+    ]
+  },
+  {
+    "id": 9,
+    "archivo": "articulo_09.pdf",
+    "titulo": "AI technologies for education: Recent research & future directions",
+    "autores": [
+      "Ke Zhang",
+      "Ayse Begum Aslan"
+    ]
+  },
+  {
+    "id": 10,
+    "archivo": "articulo_10.pdf",
+    "titulo": "Educational applications of artificial intelligence in simulation-based learning: A systematic mapping review",
+    "autores": [
+      "Chih-Pu Dai",
+      "Fengfeng Ke"
+    ]
+  },
+  {
+    "id": 11,
+    "archivo": "articulo_11.pdf",
+    "titulo": "A scoping review on how generative artificial intelligence transforms assessment in higher education",
+    "autores": [
+      "Qi Xia",
+      "Xiaojing Weng",
+      "Fan Ouyang",
+      "Tzung Jin Lin",
+      "Thomas K.F. Chiu"
+    ]
+  },
+  {
+    "id": 12,
+    "archivo": "articulo_12.pdf",
+    "titulo": "A meta systematic review of artificial intelligence in higher education: a call for increased ethics, collaboration, and rigour",
+    "autores": [
+      "Melissa Bond",
+      "Hassan Khosravi",
+      "Maarten De Laat",
+      "Nina Bergdahl",
+      "Violeta Negrea",
+      "Emily Oxley",
+      "Phuong Pham",
+      "Sin Wang Chong",
+      "George Siemens"
+    ]
+  },
+  {
+    "id": 13,
+    "archivo": "articulo_13.pdf",
+    "titulo": "Artificial intelligence for education and its emphasis on assessment and adversity quotient: a review",
+    "autores": [
+      "Jyoti Mudkanna Gavhane",
+      "Reena Pagare"
+    ]
+  },
+  {
+    "id": 14,
+    "archivo": "articulo_14.pdf",
+    "titulo": "A comprehensive exploration of artificial intelligence competence frameworks for educators: A critical review",
+    "autores": [
+      "Tamar Mikeladze",
+      "Paulien C. Meijer",
+      "Roald P. Verhoeff"
+    ]
+  },
+  {
+    "id": 15,
+    "archivo": "articulo_15.pdf",
+    "titulo": "A Systematic Review of Generative AI for Teaching and Learning Practice",
+    "autores": [
+      "Bayode Ogunleye",
+      "Kudirat Ibilola Zakariyyah",
+      "Oluwaseun Ajao",
+      "Olakunle Olayinka",
+      "Hemlata Sharma"
+    ]
+  },
+  {
+    "id": 16,
+    "archivo": "articulo_16.pdf",
+    "titulo": "Generative Artificial Intelligence in Tertiary Education: Assessment Redesign Principles and Considerations",
+    "autores": [
+      "Che Yee Lye",
+      "Lyndon Lim"
+    ]
+  },
+  {
+    "id": 17,
+    "archivo": "articulo_17.pdf",
+    "titulo": "A Systematic Review of AI-Driven Educational Assessment in STEM Education",
+    "autores": [
+      "Fan Ouyang",
+      "Tuan Anh Dinh",
+      "Weiqi Xu"
+    ]
+  },
+  {
+    "id": 18,
+    "archivo": "articulo_18.pdf",
+    "titulo": "Transforming Education: A Comprehensive Review of Generative Artificial Intelligence in Educational Settings through Bibliometric and Content Analysis",
+    "autores": [
+      "Zied Bahroun",
+      "Chiraz Anane",
+      "Vian Ahmed",
+      "Andrew Zacca"
+    ]
+  },
+  {
+    "id": 19,
+    "archivo": "articulo_19.pdf",
+    "titulo": "What Is the Impact of ChatGPT on Education? A Rapid Review of the Literature",
+    "autores": [
+      "Chung Kwan Lo"
+    ]
+  },
+  {
+    "id": 20,
+    "archivo": "articulo_20.pdf",
+    "titulo": "Systematic review of research on artificial intelligence applications in higher education – where are the educators?",
+    "autores": [
+      "Olaf Zawacki-Richter",
+      "Victoria I. Marín",
+      "Melissa Bond",
+      "Franziska Gouverneur"
+    ]
+  }
+]

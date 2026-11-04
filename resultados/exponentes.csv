@@ -1,0 +1,14 @@
+experimento,algoritmo,k_medido,k_teorico
+similitud,Levenshtein,2.19,2
+similitud,LCS,2.1,2
+similitud,Jaccard,0.86,1
+similitud,Coseno TF-IDF,0.81,1
+agrupamiento,Enlace simple,2.93,3
+agrupamiento,Enlace completo,3.0,3
+agrupamiento,Enlace promedio,3.0,3
+busqueda,KMP,1.0,1
+busqueda,Boyer-Moore,0.99,1
+busqueda,Rabin-Karp,0.99,1
+busqueda_peor_caso,KMP,-0.03,0
+busqueda_peor_caso,Boyer-Moore,0.87,1
+busqueda_peor_caso,Rabin-Karp,0.68,1
